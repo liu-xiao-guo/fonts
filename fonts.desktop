@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=fonts
+Exec=qmlscene $@ Main.qml
+Icon=fonts.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

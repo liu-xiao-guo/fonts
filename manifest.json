@@ -1,0 +1,17 @@
+{
+    "name": "fonts.liu-xiao-guo",
+    "description": "description of fonts",
+    "architecture": "all",
+    "title": "fonts",
+    "hooks": {
+        "fonts": {
+            "apparmor": "fonts.apparmor",
+            "desktop":  "fonts.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
