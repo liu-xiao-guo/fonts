@@ -34,6 +34,10 @@ Project {
         filter: "*"
     }
     Files {
+        directory: "content"
+        filter: "*"
+    }
+    Files {
         directory: "www/img/"
         filter: "*"
     }
